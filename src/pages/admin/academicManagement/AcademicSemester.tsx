@@ -6,7 +6,7 @@ const AcademicSemester = () => {
     console.log(data);
     return (
         <div>
-            
+            <h1>AcademicSemester</h1>
         </div>
     );
 };
